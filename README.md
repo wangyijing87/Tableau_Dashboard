@@ -6,11 +6,15 @@ https://data.gov.sg/search?groups=education
 https://www.singstat.gov.sg
 
 # G-Q-M
-Goal and Questions Metrics
-Goal1: Understand the overall situation of Singapore education 
-Q1, How does the educational status changed in the past 30 years？
-Q2, Does male and female individuals have the same oppotunity to receive education?
-Goal2: Understand how basic education going 
+Goal and Questions Metrics  
+Goal1: Understand the overall situation of Singapore education  
+Q1, How does the educational status changed in the past 30 years？  
+Q2, Does male and female individuals have the same oppotunity to receive education?  
+Goal2: Understand how basic education going
+ 
+
+
+ 
 Q3, How enrollment rate changes within 30 years?
 Q4, How pupil-teacher-ratio changes within 30 years?
 Q5, How teachers’ qualification change within 30 years?
