@@ -2,7 +2,7 @@
 A dashboard about Education in Singapore.
 
 Data Sources:
-https://data.gov.sg/search?groups=education
+https://data.gov.sg/search?groups=education  
 https://www.singstat.gov.sg
 
 ## G-Q-M
